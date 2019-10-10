@@ -1,7 +1,8 @@
 @import url("reset.css");
 
+.tab-wrap{display: inline-block;}
 .tab-list .tab{float: left; padding:10px 30px; background-color: #eee; border:1px solid #ccc;}
 .tab-list .tab.active{background-color: #33d; border:1px solid #ccc;}
 .clear{clear: both;}
-.tab-panel{width:300px; padding:30px; float: left; border:1px solid #ccc; position: absolute; display: none;}
+.tab-panel{width:211px; padding:30px; float: left; border:1px solid #ccc; position: absolute; display: none;}
 .tab-panel.active{display: block;}
