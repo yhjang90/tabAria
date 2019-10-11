@@ -8,7 +8,7 @@ if($tabListWrap.length){
             firstTab = tabList.first(),
             lastTab = tabList.last();
         var initialIndex = parseInt($this.attr("data-initial-index")) || 0;
-
+ 
         var keyCodes = {
             tab: 9,
             home: 36,
