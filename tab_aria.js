@@ -1,4 +1,4 @@
-var $tabListWrap = $(".tab-wrap");
+var $tabListWrap   =   $(".tab-wrap");
 
 if($tabListWrap.length){
     $tabListWrap.each(function(){
